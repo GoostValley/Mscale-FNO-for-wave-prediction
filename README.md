@@ -28,9 +28,11 @@ This project uses the multi-scale FNO (MscaleFNO) to predict the future wave evo
 
 - Python
 - torch
-- numpy,matplotlib
+- numpy
+- matplotlib
+- cmocean (for plots)
 - [neuraloperator](https://github.com/neuraloperator/neuraloperator) 
-- [OpenSTL](https://github.com/chengtan9907/OpenSTL) for runing ConvLSTM or SimVP
+- [OpenSTL](https://github.com/chengtan9907/OpenSTL) (for runing ConvLSTM or SimVP)
 
 ### Setup
 
@@ -69,27 +71,27 @@ As well as the following libraries:
 
 - OpenSTL:
     ```bibtex
-@inproceedings{tan2023openstl,
-  title={OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning},
-  author={Tan, Cheng and Li, Siyuan and Gao, Zhangyang and Guan, Wenfei and Wang, Zedong and Liu, Zicheng and Wu, Lirong and Li, Stan Z},
-  booktitle={Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
-  year={2023}
-}
+    @inproceedings{tan2023openstl,
+      title={OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning},
+      author={Tan, Cheng and Li, Siyuan and Gao, Zhangyang and Guan, Wenfei and Wang, Zedong and Liu, Zicheng and Wu, Lirong and Li, Stan Z},
+      booktitle={Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+      year={2023}
+    }
     ```
 - neuraloperator:
     ```bibtex
-@misc{kossaifi2024neural,
-   title={A Library for Learning Neural Operators},
-   author={Jean Kossaifi and Nikola Kovachki and
-   Zongyi Li and David Pitt and
-   Miguel Liu-Schiaffini and Robert Joseph George and
-   Boris Bonev and Kamyar Azizzadenesheli and
-   Julius Berner and Anima Anandkumar},
-   year={2024},
-   eprint={2412.10354},
-   archivePrefix={arXiv},
-   primaryClass={cs.LG}
-}
+    @misc{kossaifi2024neural,
+       title={A Library for Learning Neural Operators},
+       author={Jean Kossaifi and Nikola Kovachki and
+       Zongyi Li and David Pitt and
+       Miguel Liu-Schiaffini and Robert Joseph George and
+       Boris Bonev and Kamyar Azizzadenesheli and
+       Julius Berner and Anima Anandkumar},
+       year={2024},
+       eprint={2412.10354},
+       archivePrefix={arXiv},
+       primaryClass={cs.LG}
+    }
     ```
 
 ## License
