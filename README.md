@@ -59,12 +59,14 @@ Instructions to reproduce results from the paper:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{YourArticle2025,
-  author    = { Yaokun Zheng, Alistair G.L. Borthwick, and Zhiliang Lin},
-  title     = {Phase-resolved wave prediction from radar observations based on a multi-scale Fourier neural operator},
-  journal   = {Journal Name},
-  year      = {2025},
-  doi       = {10.XXXX/XXXXXXXX}
+@article{zheng2025phase,
+  title={Phase-resolved wave prediction from radar observations based on a multi-scale Fourier neural operator},
+  author={Zheng, Yaokun and Borthwick, Alistair GL and Lin, Zhiliang},
+  journal={Physics of Fluids},
+  volume={37},
+  number={11},
+  year={2025},
+  publisher={AIP Publishing}
 }
 ```
 
