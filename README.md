@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/latestdoi/REPLACE_WITH_ZENODO_BADGE.svg)](https://doi.org/10.5281/zenodo.17359600)
 
-The code for the journal article !["Phase-resolved wave prediction from radar observations based on a multi-scale Fourier neural operator"](https://doi.org/10.1063/5.0301145) by Yaokun Zheng, Alistair G.L. Borthwick, and Zhiliang Lin. 
+The code for the journal article ["Phase-resolved wave prediction from radar observations based on a multi-scale Fourier neural operator"](https://pubs.aip.org/aip/pof/article-abstract/37/11/117116/3371436/Phase-resolved-wave-prediction-from-radar?redirectedFrom=fulltext) by Yaokun Zheng, Alistair G.L. Borthwick, and Zhiliang Lin. 
 
 ## Overview
 
